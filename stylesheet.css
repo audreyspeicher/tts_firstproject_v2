@@ -1,0 +1,39 @@
+h1 {
+    font: 5em;
+    color: Orange;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+p {
+    font-size: 2em;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+     
+
+
+div:hover{
+    background-color: red;    
+    
+    
+
+}
+
+a:hover{
+    opacity: .8;
+    
+    
+}
+
+.socialIcons{
+    background-size: 50%;
+
+
+    
+}    
+    
+    
